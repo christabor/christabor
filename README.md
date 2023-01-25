@@ -5,11 +5,11 @@
 - Work
 - Trying to get back into FOSS
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning:
 
 - Rust as time permits
 
-👯 I’m looking to collaborate on ...
+⚡ I’m looking to collaborate on:
 
 - Plant/botany/horticulture things!
 - FOSS!
